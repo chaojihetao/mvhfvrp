@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 训练产生的模型权重和日志 (通常很大，不建议上传代码库)
+data/
+checkpoints/
+train_logs/
+quickstarts/checkpoints
+quickstarts/train_logs
+quickstarts/eval_log/
+baseline/
+quickstarts/eval.ipynb
+train.py
+
+# 操作系统文件
+.DS_Store
