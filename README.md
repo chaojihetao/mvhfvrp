@@ -1,4 +1,4 @@
-# MTHFVRP / VaP-CSMV Research Codebase
+# MTHFVRP Codebase
 
 [English](#english) | [中文](#中文)
 
