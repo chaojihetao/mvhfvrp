@@ -1,8 +1,8 @@
 # MTHFVRP Codebase
-
+<!-- 
 [English](#english) | [中文](#中文)
 
-## English
+## English -->
 
 ### Overview
 
@@ -60,7 +60,7 @@ python train.py
 - `quickstarts/train.ipynb`
 - `quickstarts/eval.ipynb`
 
-## 中文
+<!-- ## 中文
 
 ### 项目简介
 
@@ -116,4 +116,4 @@ python train.py
 - `quickstarts/environment_guide.ipynb`
 - `quickstarts/model_architecture_guide.ipynb`
 - `quickstarts/train.ipynb`
-- `quickstarts/eval.ipynb`
+- `quickstarts/eval.ipynb` -->
